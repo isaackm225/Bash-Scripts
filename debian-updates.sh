@@ -2,13 +2,19 @@
 
 ##keeping the system clean
 
+echo '#########################################################################'
+echo 'Updating and Upgrading packages'
+echo '#########################################################################'
+
 sudo apt update && sudo apt upgrade
 
 
 sleep 5
 
-echo 'done updating and upgrading now removing useless packages'
-
+echo '#########################################################################'
+echo 'Done' 
+echo 'Removing useless packages'
+echo '#########################################################################'
 sleep 2
 
 sudo apt autoremove 
