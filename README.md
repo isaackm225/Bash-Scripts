@@ -1,7 +1,7 @@
 
 <h1 align="center">
   <br>
-  <a href="simple-logo.png" alt="simple-logo" width="200"></a>
+  <img src="simple-logo.png" alt="simple-logo" width="200">
   <br>
   Bunch-of-script-to-update-my-different-machines
   <br>
