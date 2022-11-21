@@ -3,11 +3,11 @@
   <br>
   <img src="simple-logo.png" alt="simple-logo" width="200">
   <br>
-  Bunch-of-script-to-update-my-different-machines
+  Bunch of Script
   <br>
 </h1>
 
-<h4 align="center">A minimal Markdown Editor desktop app built on top of <a href="http://electron.atom.io" target="_blank">Electron</a>.</h4>
+<h4 align="center"> A bunch of script to help me manage my linux machines </h4>
 
 <p align="center">
   <a href="https://badge.fury.io/js/electron-markdownify">
