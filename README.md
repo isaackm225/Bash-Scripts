@@ -3,7 +3,7 @@
   <br>
   <img src="simple-logo.png" alt="simple-logo" width="200">
   <br>
-  Bunch of Script
+  Bunch of Scripts
   <br>
 </h1>
 
